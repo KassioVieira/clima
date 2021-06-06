@@ -15,7 +15,7 @@ This project is a challenge of the course IOS & Swift - The Complete IOS App Dev
   <tr>
 </table>
 
-## What you will learn
+## What was learned
 
 - How to create a dark-mode enabled app.
 - How to use vector images as image assets.
